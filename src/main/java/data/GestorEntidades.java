@@ -1,4 +1,5 @@
-package data;
+package salmontt.model;
 
-public class GestorEntidades {
+public interface Registrable {
+    void mostrarResumen();
 }

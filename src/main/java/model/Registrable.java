@@ -1,4 +1,5 @@
-package model;
+package salmontt.model;
 
-public class Registrable {
+public interface Registrable {
+    void mostrarResumen();
 }

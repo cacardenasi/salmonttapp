@@ -2,7 +2,7 @@
 
 Autor: Catalina Andrea Cárdenas Ibacache  
 Asignatura: Desarrollo Orientado a Objetos I  
-Carrera: Ingeniería en Informática  
+Carrera: Analista programador computacional
 Sede: Online  
 
 Descripción general del sistema
